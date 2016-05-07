@@ -1,5 +1,7 @@
 # PasswordStorage
 
-VERSION 1
+VERSION 1.1
 
-Uses Hash Tables to store a password for accounts on social media
+Added HashTable Declaration and Password Storage Implementation
+
+Added RemoveAll() function for SLinkedList
