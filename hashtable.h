@@ -24,7 +24,7 @@ class HashTable
 		int Hash(string input) const;
 
 		//resize the hash if it's filled
-		bool Resize(int n);
+		bool Resize(PasswordStorage acct);
 
 		void CopyArray(const HashTable &ht);
 		void DeleteArray();
